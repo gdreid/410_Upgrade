@@ -1,0 +1,1 @@
+This repository contains files required for my UBC PHYS 410 to PHYS 555 upgrade. It contains a clone of the MG_OMP repository and Wave Utility repository.
